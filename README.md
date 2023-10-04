@@ -16,7 +16,10 @@
 
 - [ ] ReactJS
 - [ ] Typescript
-- [ ] Tsup
+- [ ] Storybook
 - [ ] Stitches
+- [ ] Phosphor React
+- [ ] Polished
+- [ ] Turbo Repo
+- [ ] Tsup
 - [ ] Eslint
-- [ ] 
