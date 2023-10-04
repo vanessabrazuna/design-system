@@ -10,3 +10,13 @@
 - [ ] Checkbox
 - [ ] Avatar
 - [ ] MultiStep
+
+
+# Technologies Used
+
+- [ ] ReactJS
+- [ ] Typescript
+- [ ] Tsup
+- [ ] Stitches
+- [ ] Eslint
+- [ ] 
