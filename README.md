@@ -17,9 +17,11 @@
 - [ ] ReactJS
 - [ ] Typescript
 - [ ] Storybook
+- [ ] Storybook/addon-a11y
 - [ ] Stitches
 - [ ] Phosphor React
 - [ ] Polished
 - [ ] Turbo Repo
 - [ ] Tsup
 - [ ] Eslint
+
