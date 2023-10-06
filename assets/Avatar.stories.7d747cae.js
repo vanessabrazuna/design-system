@@ -1,0 +1,2 @@
+import{A as a}from"./index.fc47a017.js";import"./index.b51a556c.js";import"./iframe.001aed5b.js";import"./index.4ac06b12.js";import"./jsx-runtime.a5371223.js";const n={title:"Data display/Avatar",component:a,args:{src:"https://github.com/vanessabrazuna.png",alt:"Vanessa Brazuna"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,n as default};
+//# sourceMappingURL=Avatar.stories.7d747cae.js.map
